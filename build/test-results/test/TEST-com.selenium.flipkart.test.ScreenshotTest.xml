@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.selenium.flipkart.test.ScreenshotTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-25T09:57:58" hostname="DILIP" time="2.518">
+<testsuite name="com.selenium.flipkart.test.ScreenshotTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-25T11:08:03" hostname="DILIP" time="3.778">
   <properties/>
-  <testcase name="takescreenshotTest" classname="com.selenium.flipkart.test.ScreenshotTest" time="2.518"/>
+  <testcase name="screensTest" classname="com.selenium.flipkart.test.ScreenshotTest" time="3.778"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

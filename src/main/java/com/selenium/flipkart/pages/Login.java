@@ -2,7 +2,6 @@ package com.selenium.flipkart.pages;
 
 import com.selenium.flipkart.base.Base;
 import org.openqa.selenium.By;
-import org.testng.Assert;
 
 public class Login extends Base {
     public void login() throws InterruptedException {
