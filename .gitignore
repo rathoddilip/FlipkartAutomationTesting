@@ -1,0 +1,11 @@
+*/.gradle
+.gradle/
+*/.idea
+.idea/
+.vs
+*/.vs
+.vs/
+bin
+.gitignore/
+*/.gitignore
+

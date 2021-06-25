@@ -1,0 +1,8 @@
+com/selenium/flipkart/base/Base.java
+ com.selenium.flipkart.base.Base
+com/selenium/flipkart/pages/UserDashboard.java
+ com.selenium.flipkart.pages.UserDashboard
+com/selenium/flipkart/pages/Login.java
+ com.selenium.flipkart.pages.Login
+com/selenium/flipkart/pages/ScreenShotPage.java
+ com.selenium.flipkart.pages.ScreenShotPage
