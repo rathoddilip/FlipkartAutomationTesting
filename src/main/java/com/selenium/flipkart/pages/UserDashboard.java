@@ -30,10 +30,10 @@ public class UserDashboard extends Base {
     }
 
     public void addProductToCart() throws InterruptedException {
-        Thread.sleep(300);
+        Thread.sleep(400);
         JavascriptExecutor jse = (JavascriptExecutor) driver;
-        jse.executeScript("window.scrollBy(0,500)");
-        driver.findElement(By.xpath("//button[@class='_2KpZ6l _2U9uOA _3v1-ww']")).click();
+        jse.executeScript("window.scrollBy(0,100)");
+        driver.findElement(By.className("_2KpZ6l _2U9uOA _3v1-ww")).click();
     }
 
 }

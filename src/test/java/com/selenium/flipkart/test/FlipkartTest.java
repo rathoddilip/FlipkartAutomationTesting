@@ -7,10 +7,11 @@ import org.testng.annotations.Test;
 
 public class FlipkartTest extends Base {
     UserDashboard userDashboard = new UserDashboard();
-    Login loginObj = new Login();
+
 
     @Test
     public void loginApplication() throws InterruptedException {
+        Login loginObj = new Login(driver);
         loginObj.login();
     }
 

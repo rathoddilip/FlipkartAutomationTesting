@@ -1,16 +1,17 @@
 package com.selenium.flipkart.test;
 
-import com.selenium.flipkart.pages.ScreenShotPage;
+import com.selenium.flipkart.base.Base;
+import com.selenium.flipkart.pages.CustomListener;
+import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-import java.io.File;
-import java.io.IOException;
+@Listeners (CustomListener.class)
+public class ScreenshotTest extends Base {
 
-public class ScreenshotTest extends ScreenShotPage {
-    ScreenShotPage screenShotPage = new ScreenShotPage();
-
-    @Test
-    public void screensTest() throws IOException {
-        screenShotPage.screenshot("D://TestingMaterial//FlipkartScreenshot//test1.jpg");
-    }
+   @Test
+   public void takeScreenshotTest()
+   {
+       Assert.assertEquals(false,true);
+   }
 }

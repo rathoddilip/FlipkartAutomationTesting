@@ -15,7 +15,7 @@ dependencies {
     testImplementation group: 'org.testng', name: 'testng', version: '7.4.0'
     implementation group: 'io.github.bonigarcia', name: 'webdrivermanager', version: '4.4.3'
     implementation 'org.testng:testng:6.9.6'
-// https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager
+//  https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager
     compile group: 'io.github.bonigarcia', name: 'webdrivermanager', version: '4.3.0'
     compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.5'
 }
