@@ -1,8 +1,8 @@
-FAILED test
-FAILED test
+FAILED Test
+SUCCESS Test
 in search Url validation
-shttps://www.flipkart.com/search?q=mobiles&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
-FAILED test
-FAILED test
-FAILED test
-	FAILED test
+thttps://www.flipkart.com/search?q=mobiles&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off
+SUCCESS Test
+SUCCESS Test
+FAILED Test
+	FAILED Test

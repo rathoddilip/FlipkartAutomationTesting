@@ -6,12 +6,10 @@ import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-@Listeners (CustomListener.class)
+@Listeners(CustomListener.class)
 public class ScreenshotTest extends Base {
-
-   @Test
-   public void takeScreenshotTest()
-   {
-       Assert.assertEquals(false,true);
-   }
+    @Test
+    public void takeScreenshotTest() {
+        Assert.assertEquals( false, true);
+    }
 }

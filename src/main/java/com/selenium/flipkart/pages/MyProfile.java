@@ -15,6 +15,5 @@ public class MyProfile extends Base {
         //Performing the mouse hover action on the target element.
         action.moveToElement(loginButtonParentElement).perform();
         driver.findElement(By.xpath("//div[@class='_vhnxf']")).click();
-
     }
 }

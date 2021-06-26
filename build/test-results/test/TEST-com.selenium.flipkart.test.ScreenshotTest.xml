@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.selenium.flipkart.test.ScreenshotTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-06-26T04:57:03" hostname="DILIP" time="0.0">
+<testsuite name="com.selenium.flipkart.test.ScreenshotTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-06-26T11:31:21" hostname="DILIP" time="0.0">
   <properties/>
   <testcase name="takeScreenshotTest" classname="com.selenium.flipkart.test.ScreenshotTest" time="0.0">
     <failure message="java.lang.AssertionError: expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
@@ -9,7 +9,7 @@
 	at org.testng.Assert.assertEquals(Assert.java:122)
 	at org.testng.Assert.assertEquals(Assert.java:819)
 	at org.testng.Assert.assertEquals(Assert.java:829)
-	at com.selenium.flipkart.test.ScreenshotTest.takeScreenshotTest(ScreenshotTest.java:15)
+	at com.selenium.flipkart.test.ScreenshotTest.takeScreenshotTest(ScreenshotTest.java:13)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -65,7 +65,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <system-out><![CDATA[FAILED test
+  <system-out><![CDATA[FAILED Test
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
