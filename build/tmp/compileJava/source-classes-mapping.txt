@@ -1,12 +1,12 @@
-com/selenium/flipkart/pages/UserDashboard.java
- com.selenium.flipkart.pages.UserDashboard
+com/selenium/flipkart/pages/ScreenshotClass.java
+ com.selenium.flipkart.pages.ScreenshotClass
 com/selenium/flipkart/pages/MyProfile.java
  com.selenium.flipkart.pages.MyProfile
 com/selenium/flipkart/base/Base.java
  com.selenium.flipkart.base.Base
+com/selenium/flipkart/pages/UserDashboard.java
+ com.selenium.flipkart.pages.UserDashboard
 com/selenium/flipkart/pages/Login.java
  com.selenium.flipkart.pages.Login
-com/selenium/flipkart/pages/ScreenshotClass.java
- com.selenium.flipkart.pages.ScreenshotClass
 com/selenium/flipkart/pages/CustomListener.java
  com.selenium.flipkart.pages.CustomListener

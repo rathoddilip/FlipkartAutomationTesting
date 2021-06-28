@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 
 @Listeners(CustomListener.class)
 public class ScreenshotTest extends Base {
+
     @Test
     public void takeScreenshotTest() {
         Assert.assertEquals( false, true);
